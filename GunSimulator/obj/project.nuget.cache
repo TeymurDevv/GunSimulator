@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "z5BmbANQg9cdjwbif6i23ItWrjCe2C5j76Dnu9Bap/5odLptIrGham6XojjV35d60cyrCD1RxQB86ezmyPo+jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TeymurDevv\\Desktop\\C#\\GunSimulator\\GunSimulator\\GunSimulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TeymurDevv\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\TeymurDevv\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\TeymurDevv\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
